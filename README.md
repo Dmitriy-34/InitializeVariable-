@@ -1,5 +1,3 @@
-# InitializeVariable-
-
 using System;
 
 class MainClass {
